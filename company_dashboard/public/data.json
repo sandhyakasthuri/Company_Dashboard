@@ -1,0 +1,2321 @@
+{
+  "correlationId": "ab7d4fce-56de-438d-93ed-ce99b9b40927",
+  "report": {
+      "companyId": "GB-0-06836029",
+      "language": "EN",
+      "companySummary": {
+          "businessName": "CAT 5 COMMUNICATION LIMITED",
+          "country": "GB",
+          "companyNumber": "UK06478374",
+          "companyRegistrationNumber": "06836029",
+          "ggsId": "GB003/0/06836029",
+          "mainActivity": {
+              "code": "61900",
+              "description": "Other telecommunications activities",
+              "classification": "SIC07"
+          },
+          "companyStatus": {
+              "status": "Active",
+              "providerStatus": "Active",
+              "description": "Active - Accounts Filed"
+          },
+          "latestShareholdersEquityFigure": {
+              "currency": "GBP",
+              "value": 10786
+          },
+          "creditRating": {
+              "commonValue": "A",
+              "commonDescription": "Very Low Risk",
+              "creditLimit": {
+                  "currency": "GBP",
+                  "value": "20500"
+              },
+              "providerValue": {
+                  "maxValue": "100",
+                  "minValue": "1",
+                  "value": "72"
+              },
+              "providerDescription": "Very Low Risk"
+          }
+      },
+      "companyIdentification": {
+          "basicInformation": {
+              "businessName": "CAT 5 COMMUNICATION LIMITED",
+              "registeredCompanyName": "CAT 5 COMMUNICATION LIMITED",
+              "companyRegistrationNumber": "06836029",
+              "ggsId": "GB003/0/06836029",
+              "country": "GB",
+              "vatRegistrationNumber": "GB980851492",
+              "companyRegistrationDate": "2009-03-04T00:00:00Z",
+              "legalForm": {
+                  "description": "Private limited with Share Capital"
+              },
+              "companyStatus": {
+                  "status": "Active",
+                  "providerStatus": "Active",
+                  "description": "Active - Accounts Filed"
+              },
+              "principalActivity": {
+                  "classification": "default"
+              },
+              "contactAddress": {
+                  "type": "Registered Address",
+                  "simpleValue": "173 WATLING STREET, TOWCESTER, NN12 6BX",
+                  "street": "WATLING STREET WEST",
+                  "houseNumber": "173",
+                  "city": "TOWCESTER",
+                  "postalCode": "NN12 6BX",
+                  "province": "NORTHAMPTONSHIRE",
+                  "telephone": "01327352413",
+                  "directMarketingOptOut": true
+              }
+          },
+          "activityClassifications": [
+              {
+                  "classification": "SIC03",
+                  "activities": [
+                      {
+                          "code": "6420",
+                          "description": "Telecommunications"
+                      }
+                  ]
+              },
+              {
+                  "classification": "SIC07",
+                  "activities": [
+                      {
+                          "code": "61900",
+                          "description": "Other telecommunications activities"
+                      }
+                  ]
+              }
+          ]
+      },
+      "creditScore": {
+          "currentCreditRating": {
+              "commonValue": "A",
+              "commonDescription": "Very Low Risk",
+              "creditLimit": {
+                  "currency": "GBP",
+                  "value": "20500"
+              },
+              "providerValue": {
+                  "maxValue": "100",
+                  "minValue": "1",
+                  "value": "72"
+              },
+              "providerDescription": "Very Low Risk",
+              "pod": 0.1575
+          },
+          "currentContractLimit": {
+              "currency": "GBP",
+              "value": 31000
+          },
+          "previousCreditRating": {
+              "commonValue": "B",
+              "commonDescription": "Low Risk",
+              "creditLimit": {
+                  "currency": "GBP",
+                  "value": "12000"
+              },
+              "providerValue": {
+                  "maxValue": "100",
+                  "minValue": "1",
+                  "value": "67"
+              },
+              "providerDescription": "Low Risk"
+          },
+          "latestRatingChangeDate": "2024-06-25T05:25:55Z"
+      },
+      "contactInformation": {
+          "mainAddress": {
+              "type": "Registered Address",
+              "simpleValue": "173 WATLING STREET, TOWCESTER, NN12 6BX",
+              "street": "WATLING STREET WEST",
+              "houseNumber": "173",
+              "city": "TOWCESTER",
+              "postalCode": "NN12 6BX",
+              "province": "NORTHAMPTONSHIRE",
+              "telephone": "01327352413",
+              "directMarketingOptOut": true,
+              "country": "GB"
+          },
+          "otherAddresses": [
+              {
+                  "type": "Main Trading Address",
+                  "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                  "postalCode": "NN12 6BX",
+                  "telephone": "01327352413",
+                  "directMarketingOptOut": true,
+                  "country": "GB"
+              },
+              {
+                  "type": "Trading Address",
+                  "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                  "postalCode": "NN12 6BX",
+                  "telephone": "01327 352413",
+                  "country": "GB"
+              }
+          ],
+          "websites": [
+              "www.cat5comms.com"
+          ]
+      },
+      "shareCapitalStructure": {
+          "issuedShareCapital": {
+              "currency": "GBP",
+              "value": 300
+          },
+          "numberOfSharesIssued": 250,
+          "shareHolders": [
+              {
+                  "id": "GB-909732944",
+                  "name": "NAVEEN STEPHEN",
+                  "shareholderType": "Person",
+                  "shareType": "ORDINARY",
+                  "currency": "GBP",
+                  "totalValueOfSharesOwned": 180,
+                  "totalNumberOfSharesOwned": 150,
+                  "percentSharesHeld": 60,
+                  "shareClasses": [
+                      {
+                          "shareType": "ORDINARY",
+                          "currency": "GBP",
+                          "valuePerShare": 1.2,
+                          "numberOfSharesOwned": 150,
+                          "valueOfSharesOwned": 180,
+                          "additionalData": {
+                              "percentSharesHeld": 60
+                          }
+                      }
+                  ]
+              },
+              {
+                  "name": "STUART JOHN HORN",
+                  "shareholderType": "Person",
+                  "shareType": "ORDINARY",
+                  "currency": "GBP",
+                  "totalValueOfSharesOwned": 120,
+                  "totalNumberOfSharesOwned": 100,
+                  "percentSharesHeld": 40,
+                  "shareClasses": [
+                      {
+                          "shareType": "ORDINARY",
+                          "currency": "GBP",
+                          "valuePerShare": 1.2,
+                          "numberOfSharesOwned": 100,
+                          "valueOfSharesOwned": 120,
+                          "additionalData": {
+                              "percentSharesHeld": 40
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      "directors": {
+          "currentDirectors": [
+              {
+                  "id": "GB-922057650",
+                  "idType": "PersonNumber",
+                  "name": "Mr Stuart John Horn",
+                  "title": "Mr",
+                  "firstName": "Stuart",
+                  "middleName": "John",
+                  "surname": "Horn",
+                  "address": {
+                      "type": "Service Address",
+                      "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                      "street": "173 Watling Street",
+                      "city": "Towcester",
+                      "postalCode": "NN12 6BX"
+                  },
+                  "gender": "Male",
+                  "dateOfBirth": "1979-09-01T00:00:00Z",
+                  "nationality": "British",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2023-02-22T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 4,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "DIRECTOR"
+                  }
+              },
+              {
+                  "id": "GB-909732944",
+                  "idType": "PersonNumber",
+                  "name": "Mr Naveen   Stephen",
+                  "title": "Mr",
+                  "firstName": "Naveen",
+                  "surname": "Stephen",
+                  "address": {
+                      "type": "Service Address",
+                      "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                      "street": "173 Watling Street",
+                      "city": "Towcester",
+                      "postalCode": "NN12 6BX"
+                  },
+                  "gender": "Male",
+                  "dateOfBirth": "1969-01-01T00:00:00Z",
+                  "nationality": "British",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2009-03-04T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 2,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "DIRECTOR"
+                  }
+              }
+          ],
+          "previousDirectors": [
+              {
+                  "id": "GB-929985432",
+                  "idType": "PersonNumber",
+                  "name": "Victorine Sara Smith",
+                  "title": "Miss",
+                  "address": {
+                      "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                      "street": "173 Watling Street",
+                      "city": "Towcester",
+                      "postalCode": "NN12 6BX"
+                  },
+                  "gender": "Female",
+                  "dateOfBirth": "1968-12-01T00:00:00Z",
+                  "nationality": "United Kingdom",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2022-04-01T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 0,
+                      "previousAppointments": 1,
+                      "dissolvedAppointments": 0,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "DIRECTOR"
+                  },
+                  "resignationDate": "2023-02-22T00:00:00Z"
+              },
+              {
+                  "id": "GB-929239209",
+                  "idType": "PersonNumber",
+                  "name": "Niashah Lorayne Natasha Chambers",
+                  "title": "Miss",
+                  "address": {
+                      "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                      "street": "173 Watling Street",
+                      "city": "Towcester",
+                      "postalCode": "NN12 6BX"
+                  },
+                  "gender": "Female",
+                  "dateOfBirth": "1980-09-01T00:00:00Z",
+                  "nationality": "United Kingdom",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2022-04-01T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 1,
+                      "previousAppointments": 1,
+                      "dissolvedAppointments": 0,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "DIRECTOR"
+                  },
+                  "resignationDate": "2023-01-31T00:00:00Z"
+              },
+              {
+                  "id": "GB-906232656",
+                  "idType": "PersonNumber",
+                  "name": "Martin John Kellner",
+                  "title": "Mr",
+                  "address": {
+                      "simpleValue": "61 Bridge Street, Kington, HR5 3DJ",
+                      "street": "61 Bridge Street",
+                      "city": "Kington",
+                      "postalCode": "HR5 3DJ"
+                  },
+                  "gender": "Male",
+                  "dateOfBirth": "1952-02-01T00:00:00Z",
+                  "nationality": "England",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2009-06-19T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 1,
+                      "previousAppointments": 1,
+                      "dissolvedAppointments": 9,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "TELECOMMUNICATIONS PERSON"
+                  },
+                  "resignationDate": "2011-10-01T00:00:00Z"
+              },
+              {
+                  "id": "GB-913830883",
+                  "idType": "PersonNumber",
+                  "name": "Anant Patel",
+                  "title": "Mr",
+                  "address": {
+                      "simpleValue": "14 Ledburn Grove Linslade, Leighton Buzzard, Bedfordshire, LU7 2WE",
+                      "street": "14 Ledburn Grove Linslade",
+                      "city": "Leighton Buzzard",
+                      "postalCode": "LU7 2WE",
+                      "province": "Bedfordshire"
+                  },
+                  "gender": "Male",
+                  "dateOfBirth": "1968-09-01T00:00:00Z",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2009-05-11T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 0,
+                      "previousAppointments": 1,
+                      "dissolvedAppointments": 1,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "TELECOMMUNICATIONS PERSON"
+                  },
+                  "resignationDate": "2010-06-29T00:00:00Z"
+              },
+              {
+                  "id": "GB-912477078",
+                  "idType": "PersonNumber",
+                  "name": "Bartosz Radka",
+                  "title": "Mr",
+                  "address": {
+                      "simpleValue": "15 Claregate, Northampton, Northamptonshire, NN4 0QZ",
+                      "street": "15 Claregate",
+                      "city": "Northampton",
+                      "postalCode": "NN4 0QZ",
+                      "province": "Northamptonshire"
+                  },
+                  "gender": "Male",
+                  "dateOfBirth": "1980-04-01T00:00:00Z",
+                  "nationality": "United Kingdom",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2009-03-04T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 0,
+                      "previousAppointments": 1,
+                      "dissolvedAppointments": 2,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "DIRECTOR"
+                  },
+                  "resignationDate": "2009-05-05T00:00:00Z"
+              },
+              {
+                  "id": "GB-913135706",
+                  "idType": "PersonNumber",
+                  "name": "Adam Hunter",
+                  "title": "Mr",
+                  "address": {
+                      "simpleValue": "173 Watling Street, Towcester, NN12 6BX",
+                      "street": "173 Watling Street",
+                      "city": "Towcester",
+                      "postalCode": "NN12 6BX"
+                  },
+                  "gender": "Male",
+                  "dateOfBirth": "1984-06-01T00:00:00Z",
+                  "nationality": "United Kingdom",
+                  "directorType": "Person",
+                  "positions": [
+                      {
+                          "dateAppointed": "2009-03-04T00:00:00Z",
+                          "positionName": "Director"
+                      }
+                  ],
+                  "additionalData": {
+                      "presentAppointments": 1,
+                      "previousAppointments": 2,
+                      "dissolvedAppointments": 2,
+                      "disqualified": false,
+                      "disqualifiedException": false,
+                      "occupation": "DIRECTOR"
+                  },
+                  "resignationDate": "2023-01-31T00:00:00Z"
+              }
+          ]
+      },
+      "otherInformation": {
+          "advisors": [
+              {
+                  "accountantName": "KRW ACCOUNTANTS LTD"
+              }
+          ],
+          "employeesInformation": [
+              {
+                  "year": 2023,
+                  "numberOfEmployees": "7"
+              },
+              {
+                  "year": 2022,
+                  "numberOfEmployees": "6"
+              },
+              {
+                  "year": 2021,
+                  "numberOfEmployees": "6"
+              },
+              {
+                  "year": 2020,
+                  "numberOfEmployees": "7"
+              },
+              {
+                  "year": 2019,
+                  "numberOfEmployees": "7"
+              }
+          ]
+      },
+      "financialStatements": [
+          {
+              "type": "GlobalFinancialsGGS",
+              "yearEndDate": "2023-09-30T00:00:00Z",
+              "numberOfWeeks": 78,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "profitAndLoss": {
+                  "depreciation": 3886,
+                  "amortisation": 9400,
+                  "otherAppropriations": 0
+              },
+              "balanceSheet": {
+                  "totalTangibleAssets": 9663,
+                  "totalIntangibleAssets": 28200,
+                  "totalOtherFixedAssets": 0,
+                  "totalFixedAssets": 37863,
+                  "totalInventories": 59050,
+                  "tradeReceivables": 6304,
+                  "miscellaneousReceivables": 125638,
+                  "totalReceivables": 131942,
+                  "cash": 238067,
+                  "otherCurrentAssets": 0,
+                  "totalCurrentAssets": 429059,
+                  "totalAssets": 466922,
+                  "tradePayables": 13200,
+                  "bankLiabilities": 0,
+                  "otherLoansOrFinance": 74000,
+                  "miscellaneousLiabilities": 172269,
+                  "totalCurrentLiabilities": 259469,
+                  "bankLiabilitiesDueAfter1Year": 0,
+                  "otherLoansOrFinanceDueAfter1Year": 196667,
+                  "miscellaneousLiabilitiesDueAfter1Year": 0,
+                  "totalLongTermLiabilities": 196667,
+                  "totalLiabilities": 456136,
+                  "calledUpShareCapital": 250,
+                  "revenueReserves": 10386,
+                  "otherReserves": 150,
+                  "totalShareholdersEquity": 10786
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": "NO",
+                  "workingCapital": 169590,
+                  "netWorth": -17414
+              },
+              "ratios": {
+                  "currentRatio": 1.65,
+                  "liquidityRatioOrAcidTest": 1.43,
+                  "currentDebtRatio": 24.06,
+                  "gearing": 1823.35,
+                  "equityInPercentage": 2.46,
+                  "totalDebtRatio": 42.29
+              }
+          },
+          {
+              "type": "GlobalFinancialsGGS",
+              "yearEndDate": "2022-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "profitAndLoss": {
+                  "depreciation": 3228,
+                  "amortisation": 0,
+                  "otherAppropriations": 0
+              },
+              "balanceSheet": {
+                  "totalTangibleAssets": 12916,
+                  "totalIntangibleAssets": 0,
+                  "totalOtherFixedAssets": 0,
+                  "totalFixedAssets": 12916,
+                  "totalInventories": 57850,
+                  "tradeReceivables": 41697,
+                  "miscellaneousReceivables": 163075,
+                  "totalReceivables": 204772,
+                  "cash": 143612,
+                  "otherCurrentAssets": 0,
+                  "totalCurrentAssets": 406234,
+                  "totalAssets": 419150,
+                  "tradePayables": 0,
+                  "bankLiabilities": 0,
+                  "otherLoansOrFinance": 49000,
+                  "miscellaneousLiabilities": 212011,
+                  "totalCurrentLiabilities": 261011,
+                  "bankLiabilitiesDueAfter1Year": 0,
+                  "otherLoansOrFinanceDueAfter1Year": 155167,
+                  "miscellaneousLiabilitiesDueAfter1Year": 0,
+                  "totalLongTermLiabilities": 155167,
+                  "totalLiabilities": 416178,
+                  "calledUpShareCapital": 300,
+                  "revenueReserves": 2672,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 2972
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": "NO",
+                  "workingCapital": 145223,
+                  "netWorth": 2972
+              },
+              "ratios": {
+                  "currentRatio": 1.56,
+                  "liquidityRatioOrAcidTest": 1.33,
+                  "currentDebtRatio": 87.82,
+                  "gearing": 5220.96,
+                  "equityInPercentage": 0.71,
+                  "totalDebtRatio": 140.03
+              }
+          },
+          {
+              "type": "GlobalFinancialsGGS",
+              "yearEndDate": "2021-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "profitAndLoss": {
+                  "depreciation": 2335,
+                  "amortisation": 0,
+                  "otherAppropriations": 0
+              },
+              "balanceSheet": {
+                  "totalTangibleAssets": 9339,
+                  "totalIntangibleAssets": 0,
+                  "totalOtherFixedAssets": 0,
+                  "totalFixedAssets": 9339,
+                  "totalInventories": 53620,
+                  "tradeReceivables": 17268,
+                  "miscellaneousReceivables": 175468,
+                  "totalReceivables": 192736,
+                  "cash": 274401,
+                  "otherCurrentAssets": 0,
+                  "totalCurrentAssets": 520757,
+                  "totalAssets": 530096,
+                  "tradePayables": 0,
+                  "bankLiabilities": 0,
+                  "otherLoansOrFinance": 245000,
+                  "miscellaneousLiabilities": 263661,
+                  "totalCurrentLiabilities": 508661,
+                  "bankLiabilitiesDueAfter1Year": 0,
+                  "otherLoansOrFinanceDueAfter1Year": 0,
+                  "miscellaneousLiabilitiesDueAfter1Year": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalLiabilities": 508661,
+                  "calledUpShareCapital": 300,
+                  "revenueReserves": 21135,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 21435
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": "NO",
+                  "workingCapital": 12096,
+                  "netWorth": 21435
+              },
+              "ratios": {
+                  "currentRatio": 1.02,
+                  "liquidityRatioOrAcidTest": 0.92,
+                  "currentDebtRatio": 23.73,
+                  "gearing": 0,
+                  "equityInPercentage": 4.04,
+                  "totalDebtRatio": 23.73
+              }
+          },
+          {
+              "type": "GlobalFinancialsGGS",
+              "yearEndDate": "2020-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "profitAndLoss": {
+                  "depreciation": 2364,
+                  "amortisation": 0,
+                  "otherAppropriations": 0
+              },
+              "balanceSheet": {
+                  "totalTangibleAssets": 9454,
+                  "totalIntangibleAssets": 0,
+                  "totalOtherFixedAssets": 0,
+                  "totalFixedAssets": 9454,
+                  "totalInventories": 25860,
+                  "tradeReceivables": 23703,
+                  "miscellaneousReceivables": 55915,
+                  "totalReceivables": 79618,
+                  "cash": 92959,
+                  "otherCurrentAssets": 0,
+                  "totalCurrentAssets": 198437,
+                  "totalAssets": 207891,
+                  "tradePayables": 0,
+                  "bankLiabilities": 0,
+                  "otherLoansOrFinance": 0,
+                  "miscellaneousLiabilities": 186712,
+                  "totalCurrentLiabilities": 186712,
+                  "bankLiabilitiesDueAfter1Year": 0,
+                  "otherLoansOrFinanceDueAfter1Year": 0,
+                  "miscellaneousLiabilitiesDueAfter1Year": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalLiabilities": 186712,
+                  "calledUpShareCapital": 300,
+                  "revenueReserves": 20879,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 21179
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": "NO",
+                  "workingCapital": 11725,
+                  "netWorth": 21179
+              },
+              "ratios": {
+                  "currentRatio": 1.06,
+                  "liquidityRatioOrAcidTest": 0.92,
+                  "currentDebtRatio": 8.82,
+                  "gearing": 0,
+                  "equityInPercentage": 10.19,
+                  "totalDebtRatio": 8.82
+              }
+          },
+          {
+              "type": "GlobalFinancialsGGS",
+              "yearEndDate": "2019-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "profitAndLoss": {
+                  "depreciation": 2712,
+                  "amortisation": 0,
+                  "otherAppropriations": 0
+              },
+              "balanceSheet": {
+                  "totalTangibleAssets": 10850,
+                  "totalIntangibleAssets": 0,
+                  "totalOtherFixedAssets": 0,
+                  "totalFixedAssets": 10850,
+                  "totalInventories": 25420,
+                  "tradeReceivables": 21088,
+                  "miscellaneousReceivables": 27592,
+                  "totalReceivables": 48680,
+                  "cash": 65730,
+                  "otherCurrentAssets": 0,
+                  "totalCurrentAssets": 143471,
+                  "totalAssets": 154321,
+                  "tradePayables": 0,
+                  "bankLiabilities": 0,
+                  "otherLoansOrFinance": 0,
+                  "miscellaneousLiabilities": 135039,
+                  "totalCurrentLiabilities": 135039,
+                  "bankLiabilitiesDueAfter1Year": 0,
+                  "otherLoansOrFinanceDueAfter1Year": 0,
+                  "miscellaneousLiabilitiesDueAfter1Year": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalLiabilities": 135039,
+                  "calledUpShareCapital": 300,
+                  "revenueReserves": 18982,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 19282
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": "NO",
+                  "workingCapital": 8432,
+                  "netWorth": 19282
+              },
+              "ratios": {
+                  "currentRatio": 1.06,
+                  "liquidityRatioOrAcidTest": 0.87,
+                  "currentDebtRatio": 7,
+                  "gearing": 0,
+                  "equityInPercentage": 12.49,
+                  "totalDebtRatio": 7
+              }
+          }
+      ],
+      "localFinancialStatements": [
+          {
+              "type": "LocalFinancialsCSUK",
+              "yearEndDate": "2023-09-30T00:00:00Z",
+              "numberOfWeeks": 78,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "auditQualification": "The company is exempt from audit",
+              "profitAndLoss": {
+                  "depreciation": 3886,
+                  "auditFees": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 9663,
+                  "intangibleAssets": 28200,
+                  "totalFixedAssets": 37863,
+                  "stock": 59050,
+                  "tradeDebtors": 6304,
+                  "otherDebtors": 125638,
+                  "cash": 238067,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 429059,
+                  "totalAssets": 466922,
+                  "tradeCreditors": 13200,
+                  "bankBorrowingsCurrent": 0,
+                  "otherShortTermFinance": 74000,
+                  "miscCurrentLiabilities": 172269,
+                  "totalCurrentLiabilities": 259469,
+                  "otherLongTermFinance": 196667,
+                  "totalLongTermLiabilities": 196667,
+                  "totalLiabilities": 456136,
+                  "netAssets": 10786,
+                  "issuedShareCapital": 250,
+                  "revaluationReserve": 0,
+                  "revenueReserves": 10386,
+                  "otherReserves": 150,
+                  "totalShareholdersEquity": 10786
+              },
+              "cashFlow": {
+                  "netCashFlowBeforeFinancing": 0
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": false,
+                  "bankOverdraftAndLTL": 196667,
+                  "workingCapital": 169590,
+                  "capitalEmployed": 207453,
+                  "netWorth": -17414
+              },
+              "ratios": {
+                  "currentRatio": 1.65,
+                  "liquidityRatioOrAcidTest": 1.42,
+                  "currentDebtRatio": 24.05,
+                  "gearing": 1823.4,
+                  "equityInPercentage": 2.5,
+                  "totalDebtRatio": 42.28
+              }
+          },
+          {
+              "type": "LocalFinancialsCSUK",
+              "yearEndDate": "2022-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "auditQualification": "The company is exempt from audit",
+              "profitAndLoss": {
+                  "depreciation": 3228,
+                  "auditFees": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 12916,
+                  "intangibleAssets": 0,
+                  "totalFixedAssets": 12916,
+                  "stock": 57850,
+                  "tradeDebtors": 41697,
+                  "otherDebtors": 163075,
+                  "cash": 143612,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 406234,
+                  "totalAssets": 419150,
+                  "tradeCreditors": 0,
+                  "bankBorrowingsCurrent": 0,
+                  "otherShortTermFinance": 49000,
+                  "miscCurrentLiabilities": 212011,
+                  "totalCurrentLiabilities": 261011,
+                  "otherLongTermFinance": 155167,
+                  "totalLongTermLiabilities": 155167,
+                  "totalLiabilities": 416178,
+                  "netAssets": 2972,
+                  "issuedShareCapital": 300,
+                  "revaluationReserve": 0,
+                  "revenueReserves": 2672,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 2972
+              },
+              "cashFlow": {
+                  "netCashFlowBeforeFinancing": 0
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": false,
+                  "bankOverdraftAndLTL": 155167,
+                  "workingCapital": 145223,
+                  "capitalEmployed": 158139,
+                  "netWorth": 2972
+              },
+              "ratios": {
+                  "currentRatio": 1.56,
+                  "liquidityRatioOrAcidTest": 1.33,
+                  "currentDebtRatio": 87.82,
+                  "gearing": 5221,
+                  "equityInPercentage": 0.7,
+                  "totalDebtRatio": 140.03
+              }
+          },
+          {
+              "type": "LocalFinancialsCSUK",
+              "yearEndDate": "2021-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "auditQualification": "The company is exempt from audit",
+              "profitAndLoss": {
+                  "depreciation": 2335,
+                  "auditFees": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 9339,
+                  "intangibleAssets": 0,
+                  "totalFixedAssets": 9339,
+                  "stock": 53620,
+                  "tradeDebtors": 17268,
+                  "otherDebtors": 175468,
+                  "cash": 274401,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 520757,
+                  "totalAssets": 530096,
+                  "tradeCreditors": 0,
+                  "bankBorrowingsCurrent": 0,
+                  "otherShortTermFinance": 245000,
+                  "miscCurrentLiabilities": 263661,
+                  "totalCurrentLiabilities": 508661,
+                  "otherLongTermFinance": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalLiabilities": 508661,
+                  "netAssets": 21435,
+                  "issuedShareCapital": 300,
+                  "revaluationReserve": 0,
+                  "revenueReserves": 21135,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 21435
+              },
+              "cashFlow": {
+                  "netCashFlowBeforeFinancing": 0
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": false,
+                  "bankOverdraftAndLTL": 0,
+                  "workingCapital": 12096,
+                  "capitalEmployed": 21435,
+                  "netWorth": 21435
+              },
+              "ratios": {
+                  "currentRatio": 1.02,
+                  "liquidityRatioOrAcidTest": 0.91,
+                  "currentDebtRatio": 23.73,
+                  "gearing": 0,
+                  "equityInPercentage": 4,
+                  "totalDebtRatio": 23.73
+              }
+          },
+          {
+              "type": "LocalFinancialsCSUK",
+              "yearEndDate": "2020-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "auditQualification": "The company is exempt from audit",
+              "profitAndLoss": {
+                  "depreciation": 2364,
+                  "auditFees": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 9454,
+                  "intangibleAssets": 0,
+                  "totalFixedAssets": 9454,
+                  "stock": 25860,
+                  "tradeDebtors": 23703,
+                  "otherDebtors": 55915,
+                  "cash": 92959,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 198437,
+                  "totalAssets": 207891,
+                  "tradeCreditors": 0,
+                  "bankBorrowingsCurrent": 0,
+                  "otherShortTermFinance": 0,
+                  "miscCurrentLiabilities": 186712,
+                  "totalCurrentLiabilities": 186712,
+                  "otherLongTermFinance": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalLiabilities": 186712,
+                  "netAssets": 21179,
+                  "issuedShareCapital": 300,
+                  "revaluationReserve": 0,
+                  "revenueReserves": 20879,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 21179
+              },
+              "cashFlow": {
+                  "netCashFlowBeforeFinancing": 0
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": false,
+                  "bankOverdraftAndLTL": 0,
+                  "workingCapital": 11725,
+                  "capitalEmployed": 21179,
+                  "netWorth": 21179
+              },
+              "ratios": {
+                  "currentRatio": 1.06,
+                  "liquidityRatioOrAcidTest": 0.92,
+                  "currentDebtRatio": 8.81,
+                  "gearing": 0,
+                  "equityInPercentage": 10.2,
+                  "totalDebtRatio": 8.81
+              }
+          },
+          {
+              "type": "LocalFinancialsCSUK",
+              "yearEndDate": "2019-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "auditQualification": "The company is exempt from audit",
+              "profitAndLoss": {
+                  "depreciation": 2712,
+                  "auditFees": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 10850,
+                  "intangibleAssets": 0,
+                  "totalFixedAssets": 10850,
+                  "stock": 25420,
+                  "tradeDebtors": 21088,
+                  "otherDebtors": 27592,
+                  "cash": 65730,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 143471,
+                  "totalAssets": 154321,
+                  "tradeCreditors": 0,
+                  "bankBorrowingsCurrent": 0,
+                  "otherShortTermFinance": 0,
+                  "miscCurrentLiabilities": 135039,
+                  "totalCurrentLiabilities": 135039,
+                  "otherLongTermFinance": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalLiabilities": 135039,
+                  "netAssets": 19282,
+                  "issuedShareCapital": 300,
+                  "revaluationReserve": 0,
+                  "revenueReserves": 18982,
+                  "otherReserves": 0,
+                  "totalShareholdersEquity": 19282
+              },
+              "cashFlow": {
+                  "netCashFlowBeforeFinancing": 0
+              },
+              "otherFinancials": {
+                  "contingentLiabilities": false,
+                  "bankOverdraftAndLTL": 0,
+                  "workingCapital": 8432,
+                  "capitalEmployed": 19282,
+                  "netWorth": 19282
+              },
+              "ratios": {
+                  "currentRatio": 1.06,
+                  "liquidityRatioOrAcidTest": 0.87,
+                  "currentDebtRatio": 7,
+                  "gearing": 0,
+                  "equityInPercentage": 12.5,
+                  "totalDebtRatio": 7
+              }
+          },
+          {
+              "type": "LocalFinancialsGAAP",
+              "yearEndDate": "2023-09-30T00:00:00Z",
+              "numberOfWeeks": 78,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "accountsStatus": "Analysed - 'live' trading company",
+              "profitAndLoss": {
+                  "numberOfEmployees": 7,
+                  "depreciationOfTangibles": 3886,
+                  "amortisationOfIntangibles": 9400,
+                  "auditorFees": 0,
+                  "statutoryAuditCosts": 0,
+                  "otherAuditCosts": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 9663,
+                  "intangibleAssets": 28200,
+                  "investmentAndOtherAssets": 0,
+                  "investmentAndOther": 0,
+                  "debtorsDueAfter1Year": 0,
+                  "totalFixedAssets": 37863,
+                  "stocksAndWorkInProgress": 59050,
+                  "debtors": 131942,
+                  "tradeDebtors": 6304,
+                  "groupDebtors": 0,
+                  "miscDebtors": 125638,
+                  "cash": 238067,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 429059,
+                  "creditors": 87200,
+                  "tradeCreditors": 13200,
+                  "bankOverdraft": 0,
+                  "bankLoan": 0,
+                  "groupAccounts": 0,
+                  "directorsAccounts": 0,
+                  "otherShortTermLoans": 74000,
+                  "currentHirePurchaseCommitments": 0,
+                  "currentLeaseCommitments": 0,
+                  "totalOtherCurrentLiabilities": 172269,
+                  "currentTaxLiabilities": 62782,
+                  "accrualsAndDeferredIncome": 21833,
+                  "dividendsCurrentLiabilities": 0,
+                  "otherCurrentLiabilities": 87654,
+                  "totalCurrentLiabilities": 259469,
+                  "totalLongTermLoans": 196667,
+                  "longTermBankLoans": 0,
+                  "longTermGroupAccounts": 0,
+                  "longTermDirectorsAccounts": 0,
+                  "longTermOtherLoansOrFinance": 196667,
+                  "totalNonCurrentHpAndLeaseCommitments": 0,
+                  "nonCurrentHirePurchaseCommitments": 0,
+                  "nonCurrentLeaseCommitments": 0,
+                  "netPensionLiability": 0,
+                  "totalOtherNonCurrentLiabilities": 0,
+                  "accrualsAndDeferredIncomeDueAfter1Year": 0,
+                  "otherLongTermLiabilities": 0,
+                  "totalProvisions": 0,
+                  "deferredTaxLiabilities": 0,
+                  "otherProvisions": 0,
+                  "totalLongTermLiabilities": 196667,
+                  "totalCalledUpOrIssuedCapital": 250,
+                  "ordinaryShares": 250,
+                  "preferenceShares": 0,
+                  "otherShares": 0,
+                  "profitAndLossOrRevenueReserve": 10386,
+                  "revaluationReserve": 0,
+                  "otherReserves": 150,
+                  "totalShareholdersFunds": 10786,
+                  "minorityInterests": 0
+              }
+          },
+          {
+              "type": "LocalFinancialsGAAP",
+              "yearEndDate": "2022-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "accountsStatus": "Analysed - 'live' trading company",
+              "profitAndLoss": {
+                  "numberOfEmployees": 6,
+                  "depreciationOfTangibles": 3228,
+                  "amortisationOfIntangibles": 0,
+                  "auditorFees": 0,
+                  "statutoryAuditCosts": 0,
+                  "otherAuditCosts": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 12916,
+                  "intangibleAssets": 0,
+                  "investmentAndOtherAssets": 0,
+                  "investmentAndOther": 0,
+                  "debtorsDueAfter1Year": 0,
+                  "totalFixedAssets": 12916,
+                  "stocksAndWorkInProgress": 57850,
+                  "debtors": 204772,
+                  "tradeDebtors": 41697,
+                  "groupDebtors": 0,
+                  "miscDebtors": 163075,
+                  "cash": 143612,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 406234,
+                  "creditors": 49000,
+                  "tradeCreditors": 0,
+                  "bankOverdraft": 0,
+                  "bankLoan": 0,
+                  "groupAccounts": 0,
+                  "directorsAccounts": 0,
+                  "otherShortTermLoans": 49000,
+                  "currentHirePurchaseCommitments": 0,
+                  "currentLeaseCommitments": 0,
+                  "totalOtherCurrentLiabilities": 212011,
+                  "currentTaxLiabilities": 77217,
+                  "accrualsAndDeferredIncome": 44306,
+                  "dividendsCurrentLiabilities": 0,
+                  "otherCurrentLiabilities": 90488,
+                  "totalCurrentLiabilities": 261011,
+                  "totalLongTermLoans": 155167,
+                  "longTermBankLoans": 0,
+                  "longTermGroupAccounts": 0,
+                  "longTermDirectorsAccounts": 0,
+                  "longTermOtherLoansOrFinance": 155167,
+                  "totalNonCurrentHpAndLeaseCommitments": 0,
+                  "nonCurrentHirePurchaseCommitments": 0,
+                  "nonCurrentLeaseCommitments": 0,
+                  "netPensionLiability": 0,
+                  "totalOtherNonCurrentLiabilities": 0,
+                  "accrualsAndDeferredIncomeDueAfter1Year": 0,
+                  "otherLongTermLiabilities": 0,
+                  "totalProvisions": 0,
+                  "deferredTaxLiabilities": 0,
+                  "otherProvisions": 0,
+                  "totalLongTermLiabilities": 155167,
+                  "totalCalledUpOrIssuedCapital": 300,
+                  "ordinaryShares": 300,
+                  "preferenceShares": 0,
+                  "otherShares": 0,
+                  "profitAndLossOrRevenueReserve": 2672,
+                  "revaluationReserve": 0,
+                  "otherReserves": 0,
+                  "totalShareholdersFunds": 2972,
+                  "minorityInterests": 0
+              }
+          },
+          {
+              "type": "LocalFinancialsGAAP",
+              "yearEndDate": "2021-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "accountsStatus": "Analysed - 'live' trading company",
+              "profitAndLoss": {
+                  "numberOfEmployees": 6,
+                  "depreciationOfTangibles": 2335,
+                  "amortisationOfIntangibles": 0,
+                  "auditorFees": 0,
+                  "statutoryAuditCosts": 0,
+                  "otherAuditCosts": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 9339,
+                  "intangibleAssets": 0,
+                  "investmentAndOtherAssets": 0,
+                  "investmentAndOther": 0,
+                  "debtorsDueAfter1Year": 0,
+                  "totalFixedAssets": 9339,
+                  "stocksAndWorkInProgress": 53620,
+                  "debtors": 192736,
+                  "tradeDebtors": 17268,
+                  "groupDebtors": 0,
+                  "miscDebtors": 175468,
+                  "cash": 274401,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 520757,
+                  "creditors": 245000,
+                  "tradeCreditors": 0,
+                  "bankOverdraft": 0,
+                  "bankLoan": 0,
+                  "groupAccounts": 0,
+                  "directorsAccounts": 0,
+                  "otherShortTermLoans": 245000,
+                  "currentHirePurchaseCommitments": 0,
+                  "currentLeaseCommitments": 0,
+                  "totalOtherCurrentLiabilities": 263661,
+                  "currentTaxLiabilities": 111112,
+                  "accrualsAndDeferredIncome": 51153,
+                  "dividendsCurrentLiabilities": 0,
+                  "otherCurrentLiabilities": 101396,
+                  "totalCurrentLiabilities": 508661,
+                  "totalLongTermLoans": 0,
+                  "longTermBankLoans": 0,
+                  "longTermGroupAccounts": 0,
+                  "longTermDirectorsAccounts": 0,
+                  "longTermOtherLoansOrFinance": 0,
+                  "totalNonCurrentHpAndLeaseCommitments": 0,
+                  "nonCurrentHirePurchaseCommitments": 0,
+                  "nonCurrentLeaseCommitments": 0,
+                  "netPensionLiability": 0,
+                  "totalOtherNonCurrentLiabilities": 0,
+                  "accrualsAndDeferredIncomeDueAfter1Year": 0,
+                  "otherLongTermLiabilities": 0,
+                  "totalProvisions": 0,
+                  "deferredTaxLiabilities": 0,
+                  "otherProvisions": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalCalledUpOrIssuedCapital": 300,
+                  "ordinaryShares": 300,
+                  "preferenceShares": 0,
+                  "otherShares": 0,
+                  "profitAndLossOrRevenueReserve": 21135,
+                  "revaluationReserve": 0,
+                  "otherReserves": 0,
+                  "totalShareholdersFunds": 21435,
+                  "minorityInterests": 0
+              }
+          },
+          {
+              "type": "LocalFinancialsGAAP",
+              "yearEndDate": "2020-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "accountsStatus": "Analysed - 'live' trading company",
+              "profitAndLoss": {
+                  "numberOfEmployees": 7,
+                  "depreciationOfTangibles": 2364,
+                  "amortisationOfIntangibles": 0,
+                  "auditorFees": 0,
+                  "statutoryAuditCosts": 0,
+                  "otherAuditCosts": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 9454,
+                  "intangibleAssets": 0,
+                  "investmentAndOtherAssets": 0,
+                  "investmentAndOther": 0,
+                  "debtorsDueAfter1Year": 0,
+                  "totalFixedAssets": 9454,
+                  "stocksAndWorkInProgress": 25860,
+                  "debtors": 79618,
+                  "tradeDebtors": 23703,
+                  "groupDebtors": 0,
+                  "miscDebtors": 55915,
+                  "cash": 92959,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 198437,
+                  "creditors": 0,
+                  "tradeCreditors": 0,
+                  "bankOverdraft": 0,
+                  "bankLoan": 0,
+                  "groupAccounts": 0,
+                  "directorsAccounts": 0,
+                  "otherShortTermLoans": 0,
+                  "currentHirePurchaseCommitments": 0,
+                  "currentLeaseCommitments": 0,
+                  "totalOtherCurrentLiabilities": 186712,
+                  "currentTaxLiabilities": 59761,
+                  "accrualsAndDeferredIncome": 35823,
+                  "dividendsCurrentLiabilities": 0,
+                  "otherCurrentLiabilities": 91128,
+                  "totalCurrentLiabilities": 186712,
+                  "totalLongTermLoans": 0,
+                  "longTermBankLoans": 0,
+                  "longTermGroupAccounts": 0,
+                  "longTermDirectorsAccounts": 0,
+                  "longTermOtherLoansOrFinance": 0,
+                  "totalNonCurrentHpAndLeaseCommitments": 0,
+                  "nonCurrentHirePurchaseCommitments": 0,
+                  "nonCurrentLeaseCommitments": 0,
+                  "netPensionLiability": 0,
+                  "totalOtherNonCurrentLiabilities": 0,
+                  "accrualsAndDeferredIncomeDueAfter1Year": 0,
+                  "otherLongTermLiabilities": 0,
+                  "totalProvisions": 0,
+                  "deferredTaxLiabilities": 0,
+                  "otherProvisions": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalCalledUpOrIssuedCapital": 300,
+                  "ordinaryShares": 300,
+                  "preferenceShares": 0,
+                  "otherShares": 0,
+                  "profitAndLossOrRevenueReserve": 20879,
+                  "revaluationReserve": 0,
+                  "otherReserves": 0,
+                  "totalShareholdersFunds": 21179,
+                  "minorityInterests": 0
+              }
+          },
+          {
+              "type": "LocalFinancialsGAAP",
+              "yearEndDate": "2019-03-31T00:00:00Z",
+              "numberOfWeeks": 52,
+              "currency": "GBP",
+              "consolidatedAccounts": false,
+              "accountsStatus": "Analysed - 'live' trading company",
+              "profitAndLoss": {
+                  "numberOfEmployees": 7,
+                  "depreciationOfTangibles": 2712,
+                  "amortisationOfIntangibles": 0,
+                  "auditorFees": 0,
+                  "statutoryAuditCosts": 0,
+                  "otherAuditCosts": 0
+              },
+              "balanceSheet": {
+                  "tangibleAssets": 10850,
+                  "intangibleAssets": 0,
+                  "investmentAndOtherAssets": 0,
+                  "investmentAndOther": 0,
+                  "debtorsDueAfter1Year": 0,
+                  "totalFixedAssets": 10850,
+                  "stocksAndWorkInProgress": 25420,
+                  "debtors": 52321,
+                  "tradeDebtors": 21088,
+                  "groupDebtors": 0,
+                  "miscDebtors": 31233,
+                  "cash": 65730,
+                  "miscCurrentAssets": 0,
+                  "totalCurrentAssets": 143471,
+                  "creditors": 0,
+                  "tradeCreditors": 0,
+                  "bankOverdraft": 0,
+                  "bankLoan": 0,
+                  "groupAccounts": 0,
+                  "directorsAccounts": 0,
+                  "otherShortTermLoans": 0,
+                  "currentHirePurchaseCommitments": 0,
+                  "currentLeaseCommitments": 0,
+                  "totalOtherCurrentLiabilities": 135039,
+                  "currentTaxLiabilities": 65772,
+                  "accrualsAndDeferredIncome": 61853,
+                  "dividendsCurrentLiabilities": 0,
+                  "otherCurrentLiabilities": 7414,
+                  "totalCurrentLiabilities": 135039,
+                  "totalLongTermLoans": 0,
+                  "longTermBankLoans": 0,
+                  "longTermGroupAccounts": 0,
+                  "longTermDirectorsAccounts": 0,
+                  "longTermOtherLoansOrFinance": 0,
+                  "totalNonCurrentHpAndLeaseCommitments": 0,
+                  "nonCurrentHirePurchaseCommitments": 0,
+                  "nonCurrentLeaseCommitments": 0,
+                  "netPensionLiability": 0,
+                  "totalOtherNonCurrentLiabilities": 0,
+                  "accrualsAndDeferredIncomeDueAfter1Year": 0,
+                  "otherLongTermLiabilities": 0,
+                  "totalProvisions": 0,
+                  "deferredTaxLiabilities": 0,
+                  "otherProvisions": 0,
+                  "totalLongTermLiabilities": 0,
+                  "totalCalledUpOrIssuedCapital": 300,
+                  "ordinaryShares": 300,
+                  "preferenceShares": 0,
+                  "otherShares": 0,
+                  "profitAndLossOrRevenueReserve": 18982,
+                  "revaluationReserve": 0,
+                  "otherReserves": 0,
+                  "totalShareholdersFunds": 19282,
+                  "minorityInterests": 0
+              }
+          }
+      ],
+      "paymentData": {
+          "paymentsOnFile": 33,
+          "paymentsOnTime": 31,
+          "paymentsPaidLate": 0,
+          "paymentsSentLegal": 0,
+          "paymentsStillOwingLate": 2,
+          "paymentsPaid0to30Days": 0,
+          "highestInvoiceValueOutstandingLate": 512.65,
+          "paymentsPaid90DaysplusLate": 0,
+          "totalBalanceStillOwingLate": 542.94,
+          "dbt": 0,
+          "paymentsPaid61to90Days": 0,
+          "totalBalanceStillOwing": 542.94,
+          "payments31to60DaysLate": 2,
+          "payments61to90DaysLate": 0,
+          "highestInvoiceValueOutstanding": 512.65,
+          "paymentsStillOwing": 0,
+          "paymentsWithinTerms": 31,
+          "payments0to30Dayslate": 0,
+          "averageInvoiceValue": 469.94,
+          "paymentsPaid31to60Days": 0,
+          "paymentsPaid90Daysplus": 0,
+          "totalInvoiceValues": 15507.91,
+          "weightedDBT": 0,
+          "paymentTrend": "Stable",
+          "industryDBT": 14,
+          "numberOfInvoicesPaidWithinTerms": 31,
+          "numberOfInvoicesPaid1To30Days": 0,
+          "numberOfInvoicesPaid31To60Days": 0,
+          "numberOfInvoicesPaid61To90Days": 0,
+          "numberOfInvoicesPaid91PlusDays": 0,
+          "numberOfInvoicesOutstandingWithinTerms": 0,
+          "numberOfInvoicesOutstanding1To30Days": 0,
+          "numberOfInvoicesOutstanding31To60Days": 2,
+          "numberOfInvoicesOutstanding61To90Days": 0,
+          "numberOfInvoicesOutstanding91PlusDays": 0
+      },
+      "negativeInformation": {
+          "ccjSummary": {
+              "exactRegistered": 0,
+              "possibleRegistered": 0,
+              "numberOfExact": 0,
+              "numberOfPossible": 0,
+              "numberOfSatisfied": 0,
+              "numberOfWrits": 0,
+              "currency": "GBP"
+          }
+      },
+      "additionalInformation": {
+          "miscellaneous": {
+              "fps": true,
+              "filingDateOfAccounts": "2024-06-20T00:00:00Z",
+              "oddsOfFailure": "613:1",
+              "accountsDueDate": "2025-06-30T00:00:00Z"
+          },
+          "companyHistory": [
+              {
+                  "date": "2024-06-24T22:57:29Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2024-06-24T22:57:29Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2024-05-31T22:49:05Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2023-05-22T22:28:13Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2023-03-02T00:00:00Z",
+                  "description": "Miss V.S. Smith has left the board"
+              },
+              {
+                  "date": "2023-03-02T00:00:00Z",
+                  "description": "New Board Member Mr S.J. Horn appointed"
+              },
+              {
+                  "date": "2023-02-02T00:00:00Z",
+                  "description": "Miss N.L. Chambers has left the board"
+              },
+              {
+                  "date": "2023-02-02T00:00:00Z",
+                  "description": "Mr A. Hunter has left the board"
+              },
+              {
+                  "date": "2022-12-28T22:40:36Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2022-12-28T22:40:36Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2022-09-09T00:00:00Z",
+                  "description": "New Board Member Miss V.S. Smith appointed"
+              },
+              {
+                  "date": "2022-09-09T00:00:00Z",
+                  "description": "New Board Member Miss N.L. Chambers appointed"
+              },
+              {
+                  "date": "2022-05-28T00:14:23Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2021-12-05T00:06:49Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2021-12-05T00:06:49Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2021-05-29T01:01:55Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2021-03-12T23:23:24Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2021-03-12T23:23:24Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2020-06-05T22:57:33Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2019-12-31T09:18:59Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2019-12-31T09:18:59Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2019-06-07T23:19:00Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2018-12-22T23:34:12Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2018-12-22T23:34:12Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2018-11-07T01:05:00Z",
+                  "description": "Change in Reg.Office"
+              },
+              {
+                  "date": "2018-11-07T01:05:00Z",
+                  "description": "Change of Company Postcode"
+              },
+              {
+                  "date": "2018-06-20T08:53:25Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2017-12-21T22:33:15Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2017-12-21T22:33:15Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2017-08-04T04:46:08Z",
+                  "description": "Payment Data Update Received"
+              },
+              {
+                  "date": "2017-07-05T10:04:36Z",
+                  "description": "Confirmation Statement"
+              },
+              {
+                  "date": "2017-01-25T14:51:52Z",
+                  "description": "Payment Data Update Received"
+              },
+              {
+                  "date": "2016-12-29T03:55:01Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2016-06-17T13:02:33Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2015-12-28T10:35:52Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2015-06-10T01:08:48Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2014-12-30T04:07:47Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2014-12-30T04:07:47Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2014-06-23T02:39:57Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2014-01-01T01:06:24Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2013-06-12T03:43:14Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2013-01-05T03:32:09Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2013-01-05T03:32:09Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2012-05-26T02:34:03Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2012-04-19T02:13:32Z",
+                  "description": "Change in Reg.Office"
+              },
+              {
+                  "date": "2012-04-19T02:13:32Z",
+                  "description": "Change of Company Postcode"
+              },
+              {
+                  "date": "2012-03-20T02:49:16Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2011-10-17T01:24:44Z",
+                  "description": "Change in Reg.Office"
+              },
+              {
+                  "date": "2011-10-17T01:24:44Z",
+                  "description": "Change of Company Postcode"
+              },
+              {
+                  "date": "2011-10-17T00:00:00Z",
+                  "description": "Mr M.J. Kellner has left the board"
+              },
+              {
+                  "date": "2011-08-23T02:18:12Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2011-08-23T02:18:12Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2011-03-28T02:24:26Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2011-01-13T02:27:56Z",
+                  "description": "New Accounts Filed"
+              },
+              {
+                  "date": "2010-11-05T00:00:00Z",
+                  "description": "Mr A. Patel has left the board"
+              },
+              {
+                  "date": "2010-05-27T02:11:04Z",
+                  "description": "Annual Returns"
+              },
+              {
+                  "date": "2009-10-29T01:10:02Z",
+                  "description": "Change in Reg.Office"
+              },
+              {
+                  "date": "2009-10-29T01:10:02Z",
+                  "description": "Change of Company Postcode"
+              },
+              {
+                  "date": "2009-06-22T00:00:00Z",
+                  "description": "New Board Member Mr M.J. Kellner appointed"
+              },
+              {
+                  "date": "2009-05-18T00:00:00Z",
+                  "description": "Mr B. Radka has left the board"
+              },
+              {
+                  "date": "2009-05-18T00:00:00Z",
+                  "description": "New Board Member Mr A. Patel appointed"
+              },
+              {
+                  "date": "2009-03-09T05:31:58Z",
+                  "description": "Change of Name"
+              },
+              {
+                  "date": "2009-03-09T05:31:58Z",
+                  "description": "Change in Reg.Office"
+              },
+              {
+                  "date": "2009-03-09T05:31:58Z",
+                  "description": "Change of Company Postcode"
+              },
+              {
+                  "date": "2009-03-09T00:00:00Z",
+                  "description": "New Board Member Mr A. Hunter appointed"
+              },
+              {
+                  "date": "2009-03-09T00:00:00Z",
+                  "description": "New Board Member Mr B. Radka appointed"
+              },
+              {
+                  "date": "2009-03-09T00:00:00Z",
+                  "description": "New Board Member Mr N. Stephen appointed"
+              }
+          ],
+          "mortgageSummary": {
+              "outstanding": 1,
+              "satisfied": 0
+          },
+          "mortgageDetails": [
+              {
+                  "dateChargeCreated": "2020-07-27T00:00:00Z",
+                  "dateChargeRegistered": "2020-07-29T00:00:00Z",
+                  "status": "OUTSTANDING",
+                  "personsEntitled": "HSBC UK BANK PLC",
+                  "details": "A FIXED AND FLOATING CHARGE OVER ALL ASSETS INCLUDING A CHARGE OVER THE UNREGISTERED PROPERTY KNOWN AS 173 WALTING STREET, TOWCESTER (SUBLETTING FROM NATWEST)CONTAINS FIXED CHARGE.CONTAINS FLOATING CHARGE.FLOATING CHARGE COVERS ALL THE PROPERTY OR UNDERTAKING OF THE COMPANY.CONTAINS NEGATIVE PLEDGE."
+              }
+          ],
+          "commentaries": [
+              {
+                  "commentaryText": "This company has been treated as a Small company in terms of the score/limit that has been generated.",
+                  "positiveNegative": "Neutral",
+                  "positiveOrNegative": "Neutral"
+              },
+              {
+                  "commentaryText": "This company's Trade Creditors shows a low amount of outstanding short term creditor obligations.",
+                  "positiveNegative": "Positive",
+                  "positiveOrNegative": "Positive"
+              },
+              {
+                  "commentaryText": "This company's latest P & L Account Reserve shows a positive amount of retained earnings.",
+                  "positiveNegative": "Positive",
+                  "positiveOrNegative": "Positive"
+              },
+              {
+                  "commentaryText": "This company's latest Balance Sheet shows a high amount of cash available.",
+                  "positiveNegative": "Positive",
+                  "positiveOrNegative": "Positive"
+              },
+              {
+                  "commentaryText": "The Equity within the business has increased in comparison to the previous year.",
+                  "positiveNegative": "Positive",
+                  "positiveOrNegative": "Positive"
+              },
+              {
+                  "commentaryText": "This company's Long Term Liabilities shows a moderate amount of outstanding long term obligations.",
+                  "positiveNegative": "Neutral",
+                  "positiveOrNegative": "Neutral"
+              },
+              {
+                  "commentaryText": "This company trades in an industry with a moderate level of corporate failures.",
+                  "positiveNegative": "Neutral",
+                  "positiveOrNegative": "Neutral"
+              }
+          ],
+          "personsWithSignificantControl": {
+              "activePSC": [
+                  {
+                      "title": "Mr",
+                      "name": "Mr Naveen Stephen",
+                      "personType": "Person",
+                      "address": {
+                          "simpleValue": "173 Watling Street, Towcester, NN12 6BX United Kingdom",
+                          "houseNumber": "173 Watling Street",
+                          "city": "Towcester",
+                          "postalCode": "NN12 6BX"
+                      },
+                      "country": "United Kingdom",
+                      "dateOfBirth": "1969-01-01T00:00:00Z",
+                      "kind": "individual-person-with-significant-control",
+                      "countryOfResidence": "England",
+                      "nationality": "British",
+                      "natureOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+                      "notifiedOn": "2016-06-30T00:00:00Z",
+                      "insertDate": "2024-07-06T21:19:48Z"
+                  }
+              ],
+              "ceasedPSC": [
+                  {
+                      "title": "Mr",
+                      "name": "Mr Adam Hunter",
+                      "personType": "Person",
+                      "address": {
+                          "simpleValue": "173 Watling Street, Towcester, NN12 6BX United Kingdom",
+                          "houseNumber": "173 Watling Street",
+                          "city": "Towcester",
+                          "postalCode": "NN12 6BX"
+                      },
+                      "country": "United Kingdom",
+                      "dateOfBirth": "1984-06-01T00:00:00Z",
+                      "kind": "individual-person-with-significant-control",
+                      "countryOfResidence": "England",
+                      "nationality": "British",
+                      "natureOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+                      "notifiedOn": "2016-06-30T00:00:00Z",
+                      "ceasedOn": "2023-01-31T00:00:00Z",
+                      "insertDate": "2024-07-06T21:20:08Z"
+                  }
+              ]
+          },
+          "ratingHistory": [
+              {
+                  "date": "2024-06-25T05:25:55Z",
+                  "companyValue": 72,
+                  "ratingDescription": "Very Low Risk"
+              },
+              {
+                  "date": "2023-08-23T05:04:01Z",
+                  "companyValue": 67,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2023-08-22T05:16:56Z",
+                  "companyValue": 58,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2023-08-01T05:07:30Z",
+                  "companyValue": 67,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2023-03-30T10:37:14Z",
+                  "companyValue": 50,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2023-02-02T05:39:23Z",
+                  "companyValue": 31,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2022-12-29T05:38:05Z",
+                  "companyValue": 49,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2022-09-09T05:36:18Z",
+                  "companyValue": 53,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2021-12-05T05:54:28Z",
+                  "companyValue": 47,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2021-03-13T05:51:51Z",
+                  "companyValue": 51,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2019-12-06T05:00:00Z",
+                  "companyValue": 51,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2018-12-23T00:23:56Z",
+                  "companyValue": 64,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2017-12-21T23:37:09Z",
+                  "companyValue": 64,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2017-08-04T04:43:24Z",
+                  "companyValue": 59,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2017-01-25T13:49:17Z",
+                  "companyValue": 62,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2016-12-29T05:07:24Z",
+                  "companyValue": 59,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2015-12-29T06:54:41Z",
+                  "companyValue": 59,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2015-04-14T05:08:51Z",
+                  "companyValue": 56,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2015-01-12T05:20:50Z",
+                  "companyValue": 54,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2014-12-30T06:16:47Z",
+                  "companyValue": 56,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2014-09-23T05:12:55Z",
+                  "companyValue": 56,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2014-09-02T23:55:18Z",
+                  "companyValue": 54,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2014-08-24T08:00:00Z",
+                  "companyValue": 50,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2014-01-01T00:00:00Z",
+                  "companyValue": 74,
+                  "ratingDescription": "Very Low Risk"
+              },
+              {
+                  "date": "2013-12-31T00:00:00Z",
+                  "companyValue": 68,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2013-12-21T00:00:00Z",
+                  "companyValue": 40,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2013-11-30T00:00:00Z",
+                  "companyValue": 68,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2013-03-31T00:00:00Z",
+                  "companyValue": 70,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2013-01-05T00:00:00Z",
+                  "companyValue": 69,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2013-01-03T00:00:00Z",
+                  "companyValue": 63,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2012-12-22T00:00:00Z",
+                  "companyValue": 36,
+                  "ratingDescription": "Moderate Risk"
+              },
+              {
+                  "date": "2011-10-17T00:00:00Z",
+                  "companyValue": 63,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2011-08-23T00:00:00Z",
+                  "companyValue": 66,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2011-04-21T00:00:00Z",
+                  "companyValue": 52,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2011-03-23T00:00:00Z",
+                  "companyValue": 14,
+                  "ratingDescription": "High Risk"
+              },
+              {
+                  "date": "2011-01-13T00:00:00Z",
+                  "companyValue": 52,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2011-01-12T00:00:00Z",
+                  "companyValue": -17,
+                  "ratingDescription": "Financial Statements not filed / too old"
+              },
+              {
+                  "date": "2010-11-05T00:00:00Z",
+                  "companyValue": 27,
+                  "ratingDescription": "High Risk"
+              },
+              {
+                  "date": "2010-05-27T00:00:00Z",
+                  "companyValue": 57,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2009-06-22T00:00:00Z",
+                  "companyValue": 58,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2009-05-18T00:00:00Z",
+                  "companyValue": 56,
+                  "ratingDescription": "Low Risk"
+              },
+              {
+                  "date": "2009-03-09T00:00:00Z",
+                  "companyValue": 46,
+                  "ratingDescription": "Moderate Risk"
+              }
+          ],
+          "creditLimitHistory": [
+              {
+                  "date": "2024-06-25T05:25:55Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 20500
+                  }
+              },
+              {
+                  "date": "2023-08-23T05:04:01Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 12000
+                  }
+              },
+              {
+                  "date": "2023-08-22T05:16:56Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 10000
+                  }
+              },
+              {
+                  "date": "2023-08-01T05:07:30Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 12000
+                  }
+              },
+              {
+                  "date": "2023-03-30T10:37:14Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 6000
+                  }
+              },
+              {
+                  "date": "2023-02-02T05:39:23Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 3500
+                  }
+              },
+              {
+                  "date": "2022-12-29T05:38:05Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 6000
+                  }
+              },
+              {
+                  "date": "2022-09-09T05:36:18Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 12000
+                  }
+              },
+              {
+                  "date": "2021-12-05T05:54:28Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 7000
+                  }
+              },
+              {
+                  "date": "2021-03-13T05:51:51Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 4500
+                  }
+              },
+              {
+                  "date": "2019-12-06T05:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 3500
+                  }
+              },
+              {
+                  "date": "2018-12-23T00:23:56Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 4000
+                  }
+              },
+              {
+                  "date": "2017-12-21T23:37:09Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 3500
+                  }
+              },
+              {
+                  "date": "2017-08-04T04:43:24Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 1500
+                  }
+              },
+              {
+                  "date": "2017-01-25T13:49:17Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 2000
+                  }
+              },
+              {
+                  "date": "2016-12-29T05:07:24Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 1500
+                  }
+              },
+              {
+                  "date": "2015-12-29T06:54:41Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 2500
+                  }
+              },
+              {
+                  "date": "2015-04-14T05:08:51Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 2000
+                  }
+              },
+              {
+                  "date": "2015-01-12T05:20:50Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 1500
+                  }
+              },
+              {
+                  "date": "2014-12-30T06:16:47Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 2000
+                  }
+              },
+              {
+                  "date": "2014-09-23T05:12:55Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              },
+              {
+                  "date": "2014-09-02T23:55:18Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              },
+              {
+                  "date": "2014-08-24T08:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              },
+              {
+                  "date": "2014-01-01T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 3500
+                  }
+              },
+              {
+                  "date": "2013-12-31T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 2500
+                  }
+              },
+              {
+                  "date": "2013-12-21T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              },
+              {
+                  "date": "2013-01-05T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 2500
+                  }
+              },
+              {
+                  "date": "2011-04-21T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              },
+              {
+                  "date": "2011-03-23T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 0
+                  }
+              },
+              {
+                  "date": "2011-01-13T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              },
+              {
+                  "date": "2010-11-05T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 0
+                  }
+              },
+              {
+                  "date": "2009-06-22T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 1000
+                  }
+              },
+              {
+                  "date": "2009-05-18T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 1000
+                  }
+              },
+              {
+                  "date": "2009-03-09T00:00:00Z",
+                  "companyValue": {
+                      "currency": "GBP",
+                      "value": 500
+                  }
+              }
+          ],
+          "landRegistry": {
+              "registeredLandAndProperty": 0
+          },
+          "enquiriesTrend": {
+              "latestEnquiryDate": "2024-07-02T16:20:04Z",
+              "month1": 1,
+              "month2": 10,
+              "month3": 1,
+              "month4": 0,
+              "month5": 5,
+              "month6": 0,
+              "month7": 0,
+              "month8": 6,
+              "month9": 2,
+              "month10": 6,
+              "month11": 2,
+              "month12": 2,
+              "months1to3": 12,
+              "months4to6": 5,
+              "months7to9": 8,
+              "months10to12": 10,
+              "monthlyAverage": 3
+          },
+          "scoreTiers": [
+              {
+                  "activityCode": "61900",
+                  "numberOfActivityCode": 8355,
+                  "ranking": {
+                      "code": 2,
+                      "description": "middle to upper 25%"
+                  }
+              }
+          ]
+      }
+  },
+  "companyId": "GB-0-06836029",
+  "dateOfOrder": "2024-07-06T21:47:05.864Z",
+  "language": "en",
+  "userId": "101963018"
+}
